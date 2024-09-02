@@ -6,7 +6,7 @@ apply plugin: 'kotlin'
 apply plugin: 'com.diffplug.spotless'
 
 dependencies {
-    implementation 'androidx.annotation:annotation:1.3.0'
+    implementation 'androidx.annotation:annotation:1.8.2'
     api 'com.android.tools:sdklib:25.3.0'
     implementation project(path: ':common')
 	implementation project(path: ':apksigner')
