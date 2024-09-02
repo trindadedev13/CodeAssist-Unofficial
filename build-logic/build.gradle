@@ -33,7 +33,7 @@ dependencies {
     
     testImplementation 'junit:junit:4.13.2'
     testImplementation "com.google.truth:truth:1.4.4"
-    testImplementation "org.robolectric:robolectric:4.7.3"
+    testImplementation "org.robolectric:robolectric:4.13"
     testImplementation project(path: ':jaxp')
 
     api 'com.android.tools:r8:8.5.35'
