@@ -59,7 +59,7 @@ dependencies {
 
     api 'org.jetbrains.exposed:exposed-core:0.32.1'
     api 'org.jetbrains.exposed:exposed-dao:0.32.1'
-    api 'org.jetbrains.exposed:exposed-jdbc:0.32.1'
+    api 'org.jetbrains.exposed:exposed-jdbc:0.54.0'
     api 'com.h2database:h2:2.3.232'
     implementation 'androidx.annotation:annotation:1.8.2'
     testImplementation 'junit:junit:4.+'
