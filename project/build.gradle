@@ -15,7 +15,7 @@ dependencies {
 	
     // for manifest  parsing
     implementation project(path: ':manifmerger')
-	compileOnly 'com.google.code.gson:gson:2.8.8'
+	compileOnly 'com.google.code.gson:gson:2.11.0'
     // user data holder
     implementation project(path: ':kotlinc')
     compileOnly project(path: ':android-stubs')
