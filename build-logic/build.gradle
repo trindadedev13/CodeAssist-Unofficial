@@ -10,7 +10,7 @@ dependencies {
     api 'com.android.tools:sdklib:25.3.0'
     implementation project(path: ':common')
 	implementation project(path: ':apksigner')
-    implementation 'androidx.test:core:1.4.0'
+    implementation 'androidx.test:core:1.6.1'
 
     // required so internal classes would be included 
     api project(path: ':jaxp')
