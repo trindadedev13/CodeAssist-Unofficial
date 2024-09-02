@@ -175,7 +175,7 @@ dependencies {
     testImplementation 'org.mockito:mockito-core:5.13.0'
     testImplementation "org.robolectric:robolectric:4.7.3"
     debugImplementation 'androidx.test:core:1.4.0'
-    debugImplementation 'androidx.fragment:fragment-testing:1.4.1'
+    debugImplementation 'androidx.fragment:fragment-testing:1.8.2'
 
     androidTestImplementation 'com.google.truth:truth:1.4.4'
     androidTestImplementation 'androidx.test.ext:junit:1.2.1'
