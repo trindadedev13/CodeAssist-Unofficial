@@ -53,7 +53,7 @@ dependencies {
     testImplementation 'androidx.test:core:1.4.0'
     testImplementation project(path: ':javac')
     androidTestImplementation 'androidx.test.ext:junit:1.2.1'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'
 
     // code generation
     api 'com.github.javaparser:javaparser-core:3.26.1'
