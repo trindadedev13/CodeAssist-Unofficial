@@ -29,7 +29,7 @@ dependencies {
     implementation project(path: ':javac')
     implementation project(path: ':xml-repository')
     // bundletool
-    api 'com.android.tools.build:bundletool:1.15.6'
+    api 'com.android.tools.build:bundletool:1.17.1'
     
     testImplementation 'junit:junit:4.13.2'
     testImplementation "com.google.truth:truth:1.4.4"
