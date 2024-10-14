@@ -56,7 +56,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'
 
     // code generation
-    api 'com.github.javaparser:javaparser-core:3.26.1'
+    api 'com.github.javaparser:javaparser-core:3.26.2'
     
     implementation 'androidx.annotation:annotation:1.8.2'
 
